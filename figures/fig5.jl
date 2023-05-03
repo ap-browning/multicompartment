@@ -18,6 +18,8 @@ k = 1.0
 μ = 1.0
 ã = 1.0
 
+ν = 6
+
 # Function to get standard deviation of compartment 6 with feedback (n → m)
 function std_with_feedback(n,m,ε)
 
